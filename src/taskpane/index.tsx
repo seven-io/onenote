@@ -1,1 +1,1 @@
-import '@sms77/office-base/src/index';
+import '@seven.io/office-base/src/index';

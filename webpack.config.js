@@ -31,7 +31,7 @@ module.exports = {
     module: {
         rules: [
             {
-                include: [/src/, /node_modules\/@sms77\/office-base/],
+                include: [/src/, /node_modules\/@seven.io\/office-base/],
                 test: /\.([jt])sx?$/,
                 use: ['babel-loader'],
             },
@@ -56,10 +56,10 @@ module.exports = {
         new HtmlWebpackPlugin({
             chunks: ['taskpane', 'vendor', 'polyfills'],
             filename: 'taskpane.html',
-            template: 'node_modules/@sms77/office-base/public/index.html',
+            template: 'node_modules/@seven.io/office-base/public/index.html',
         }),
         new CopyWebpackPlugin([{
-            from: 'node_modules/@sms77/office-base/public/assets',
+            from: 'node_modules/@seven.io/office-base/public/assets',
             ignore: ['*.scss'],
             to: 'assets',
         }]),

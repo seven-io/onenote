@@ -1,8 +1,9 @@
-![alt text](https://www.sms77.io/wp-content/uploads/2019/07/sms77-Logo-400x79.png "sms77")
-# sms77io Addin for OneNote Online !!!WIP!!! need license for OneNote online for testing
+![](https://www.seven.io/wp-content/uploads/Logo.svg "seven Logo")
+
+# seven Addin for OneNote Online !!!WIP!!! need license for OneNote online for testing
 
 ## Installation
-- <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing">Sideloading Office on the Web</a>
+- [Sideloading Office on the Web](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing)
 
 #### License
 See [LICENSE](LICENSE)
